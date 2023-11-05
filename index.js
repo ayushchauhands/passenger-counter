@@ -1,5 +1,3 @@
-// document.getElementById("count-el").innerText = 74;
-
 // camelCase
 let countEl = document.getElementById("count-el");
 let saveEl = document.getElementById("save-el");
